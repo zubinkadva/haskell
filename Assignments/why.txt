@@ -1,0 +1,7 @@
+Functional programming is a contrast from traditional or imperative languages like Java, Ada, PASCAL, etc. The name functional programming is derived from functions since everything in a functional program is essentially a function / method. 
+Functional programming includes a myriad of advantages over other programming techniques. One major advantage is that; it relieves the programmer of the order in which a program executes. 
+Another characteristic of functional programs are its modularity which simply means combining together elements of a program. This can be in the form of functions or the program itself. Another aspect is re-usability. If redundant code is what the programmer is worried about, perhaps he should consider modularization.
+The Haskell programming language is an example of a functional language. Haskell uses lazy code evaluation. It means expressions are deferred evaluation until their results are needed by other computations. 
+As mentioned earlier, Haskell programs are functions that are considered 'pure' since they do not communicate with the outside world. Haskell provides numerous advantages in terms of productivity and reliability. 
+In terms of speed, Haskell again outruns traditional languages. The Glasgow Haskell Compiler (GHC) is a lot faster than code compiled through a dynamic languages' interpreter. Haskell has a wide variety of applications; from the banking sector to engineering systems and even start-ups can now use Haskell.
+With all these advantages, funtional programming languages matter a lot.
